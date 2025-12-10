@@ -282,35 +282,6 @@ pip install numpy scipy networkx
 - Check that output files from SSNMTF exist
 - Verify file paths in `Make_Integrated_Net.py`
 
-### General Issues
-
-**Empty output network:**
-- Check input networks are properly formatted
-- Verify SSNMTF converged successfully
-- Review MATLAB console output for errors
-
-**Different results from paper:**
-- Ensure using the same input networks
-- Check for any preprocessing steps
-- Verify SSNMTF parameters match publication
-
-## Computational Requirements
-
-### Storage
-- Input networks: ~100MB-1GB depending on size
-- Intermediate files: ~500MB-2GB
-- Final output: ~50MB-500MB
-
-### Memory
-- MATLAB Step 1: 4GB-16GB RAM (depends on network size)
-- Python Step 2: 2GB-8GB RAM
-- Recommended: 16GB+ for large-scale networks
-
-### Processing
-- Step 1 (SSNMTF): 10 minutes - 2 hours (depends on network size and iterations)
-- Step 2 (Network generation): 1-10 minutes
-- Multi-core processor recommended
-
 ## Reproducibility
 
 This repository provides all scripts and test datasets used in the published study, enabling:
@@ -328,25 +299,6 @@ N. Malod-Dognin, J. Petschnigg, S.F.L. Windels, J. Povh, H. Hemmingway, R. Kette
 Towards a Data-Integrated Cell
 Nat Commun 10, 805 (2019). https://doi.org/10.1038/s41467-019-08797-8
 ```
-
-## Support
-
-For questions about:
-- **Methods and algorithms** - Contact Prof. Natasa Przulj at natasa.przulj@mbzuai.ac.ae
-- **Technical issues** - Open an issue on GitHub
-- **Collaborations** - Contact the corresponding author
-
-## Contributing
-
-We welcome contributions to improve the iCell framework:
-- Bug reports and fixes
-- Documentation improvements
-- Extension to new data types
-- Performance optimizations
-
-## Acknowledgments
-
-This work integrates data from multiple public biological databases. We acknowledge the scientific community for making these resources available.
 
 ## Contact
 
