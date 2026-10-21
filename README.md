@@ -4,7 +4,7 @@
 
 Corresponding author: Prof. N. Pržulj, natasa.przulj@mbzuai.ac.ae
 
-<img src="icell_safe_reactome.png" alt="iCell" width="500">
+<img src="icell_safe_reactome.png" alt="iCell" width="800">
 
 ## Downloads
 
