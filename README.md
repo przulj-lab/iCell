@@ -8,7 +8,7 @@
 
 Corresponding author: Prof. N. Pržulj, natasa.przulj@mbzuai.ac.ae
 
-<img src="images/icell_safe_reactome.png" width="600">
+<img src="images/icell_safe_reactome.png" width="500">
 
 </div>
 
