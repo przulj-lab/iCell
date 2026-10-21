@@ -25,16 +25,17 @@ This repository provides the computational framework for generating an **iCell**
 
 ### Core Scripts
 
-- **[Main File](link)** - Primary scripts for generating an iCell
+- **[Main File](https://github.com/przulj-lab/iCell/releases/download/v1.0/iCell_basic_package.zip
+)** - Primary scripts for generating an iCell
 
 ### Complete Dataset Package
 
 All scripts and datasets used in the paper are available in four parts:
 
-- **[Part 1](http://www0.cs.ucl.ac.uk/staff/natasa/iCell/iCell_full_package.zip.001)**
-- **[Part 2](http://www0.cs.ucl.ac.uk/staff/natasa/iCell/iCell_full_package.zip.002)**
-- **[Part 3](http://www0.cs.ucl.ac.uk/staff/natasa/iCell/iCell_full_package.zip.003)**
-- **[Part 4](http://www0.cs.ucl.ac.uk/staff/natasa/iCell/iCell_full_package.zip.004)**
+- **[Part 1](https://github.com/przulj-lab/iCell/releases/download/v1.0/iCell_full_package.zip.001)**
+- **[Part 2](https://github.com/przulj-lab/iCell/releases/download/v1.0/iCell_full_package.zip.002)**
+- **[Part 3](https://github.com/przulj-lab/iCell/releases/download/v1.0/iCell_full_package.zip.003)**
+- **[Part 4](https://github.com/przulj-lab/iCell/releases/download/v1.0/iCell_full_package.zip.004)**
 
 *Note: All four parts are required for complete functionality. If download links don't work when clicked, copy and paste the URLs directly into your browser's address bar.*
 
