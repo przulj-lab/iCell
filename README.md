@@ -1,7 +1,4 @@
-  <div align="center">
-  <h1>Towards a Data-Integrated Cell</h1>
-  <img src="icell_safe_reactome.png" width="300">
-  </div>
+# Towards a Data-Integrated Cell</h1>
 
 **N. Malod-Dognin, J. Petschnigg, S.F.L. Windels, J. Povh, H. Hemmingway, R. Ketteler and N. Pržulj**
 
