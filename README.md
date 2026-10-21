@@ -1,10 +1,11 @@
+<img src="images/header02.jpg" width="100%">
 # Towards a Data-Integrated Cell</h1>
 
 **N. Malod-Dognin, J. Petschnigg, S.F.L. Windels, J. Povh, H. Hemmingway, R. Ketteler and N. Pržulj**
 
 Corresponding author: Prof. N. Pržulj, natasa.przulj@mbzuai.ac.ae
 
-<img src="icell_safe_reactome.png" alt="iCell" width="600">
+<img src="images/icell_safe_reactome.png" alt="iCell" width="600">
 
 ## Downloads
 
