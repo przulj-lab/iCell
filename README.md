@@ -12,7 +12,6 @@ Corresponding author: Prof. N. Pržulj, natasa.przulj@mbzuai.ac.ae
 
 </div>
 
-<table><tr><td>
 ## Downloads
 
 **The two scripts needed to generate an iCell:**
@@ -39,8 +38,6 @@ Windows (Command Prompt):
 copy /b iCell_full_package.zip.001+iCell_full_package.zip.002+iCell_full_package.zip.003+iCell_full_package.zip.004 iCell_full_package.zip
 ```
 Then extract `iCell_full_package.zip` as usual.
-
-</td></tr></table>
 
 ## Generating an iCell (Main file)
 
