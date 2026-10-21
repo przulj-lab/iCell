@@ -1,4 +1,7 @@
-# Towards a Data-Integrated Cell
+  <div align="center">
+  <h1>Towards a Data-Integrated Cell</h1>
+  <img src="iCell.png" width="300">
+  </div>
 
 **N. Malod-Dognin, J. Petschnigg, S.F.L. Windels, J. Povh, H. Hemmingway, R. Ketteler and N. Pržulj**
 
